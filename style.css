@@ -88,6 +88,10 @@ a {
     background-image: url("./assets/wildlife.png");
     background-size: cover;
 }
+#resume{
+    background-image: url("./assets/resume-190916.jpg");
+    background-size: cover;
+}
 .work{
     margin-top: 0;
 }
@@ -107,7 +111,7 @@ a {
     color: var(--light);
     text-decoration: none;
     font-size: 21px;
-    opacity: 80%;
+    opacity: 90%;
 }
 
 .workText:hover {
