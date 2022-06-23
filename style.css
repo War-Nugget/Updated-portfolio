@@ -88,6 +88,10 @@ a {
     background-image: url("./assets/wildlife.png");
     background-size: cover;
 }
+#yikes{
+    background-image: url("./assets/yikesthing.png");
+    background-size: cover;
+}
 #resume{
     background-image: url("./assets/resume-190916.jpg");
     background-size: cover;
