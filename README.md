@@ -4,8 +4,8 @@ By Sahil Patel
 
 This assignment assigned to me by Georgia Tech coding bootcamp and has taught me how to properly write a website from scratch. It truley was a tough 30+ hours of trying to make every section look like a modern site and still has long ways to go. Overall, this project was very fun when talking to others while working on our own projects hearing our struggles and our feats. Not only has this assignment taught me how to write a portfolio website, I feel as though I can front-end other websites that I will work on in the future all thanks to the 3 hour video I learned on Bootstrap v.5. I will link all my references in the bottom of the read me.
 
-- Link to page: https://war-nugget.github.io/hw-2-El-Portfolio/
-- link to repo: https://github.com/War-Nugget/hw-2-El-Portfolio
+- Link to page: https://war-nugget.github.io/Updated-portfolio/
+- link to repo: https://github.com/War-Nugget/Updated-portfolio
 
 ## My website has all of the following:
 
